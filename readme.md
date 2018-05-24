@@ -1,3 +1,5 @@
+sublime3或2的颜色方案
+
 # Legacy Color Schemes
 
 These are color schemes that were part of Sublime Text 2 and older builds
